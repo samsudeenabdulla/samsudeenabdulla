@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mohamed Samsudeen Abdulla 👋
 
-<!--
-**samsudeenabdulla/samsudeenabdulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Software Engineering Undergraduate | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm currently pursuing a BSc (Hons) in Computer Science (Software Engineering). I enjoy developing practical software solutions, mobile applications, and AI-powered systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 My Portfolio
+**[Visit My Personal Portfolio](https://samsudeenabdulla.netlify.app)**
+
+💻 Technical Skills
+- **Programming:** Python, Java, C/C++, JavaScript
+- **Web Development:** HTML, CSS, PHP, Next.js
+- **Mobile Development:** Android Studio, Flutter, Firebase
+- **Database:** MySQL, SQLite
+- **AI & Machine Learning:** Scikit-learn, Pandas, NumPy, SHAP
+
+🚀 Featured Projects
+- AI Customer Churn Prediction System
+- My Blog – Offline-First Android Application
+- Android Firebase Chat Application
+
+🎓 Education
+- BSc (Hons) Computer Science (Software Engineering) – Reading
+- HND in Computing – Completed
+- Diploma in IT – Completed
+
+🔗 Connect With Me
+- **Portfolio:** https://samsudeenabdulla.netlify.app
+- **LinkedIn:** https://www.linkedin.com/in/samsudeenabdulla/
+- **GitHub:** https://github.com/samsudeenabdulla
+- **Email:** 0929abdulla@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
